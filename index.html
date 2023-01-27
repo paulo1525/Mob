@@ -182,7 +182,7 @@
                                 </tr>
                             </tbody>
                         </table>
-                        <iframe src="https://buk.pt/raizstudios" id="myframe"></iframe>
+                        <iframe src="https://buk.pt/raizstudios" id="myframe" style="width: 80%; height: 60%;"></iframe>
                     </div>
                 </div>
             </div>
@@ -218,8 +218,8 @@
         <script src="assets/dropdown/js/navbar-dropdown.js"></script>
         <script src="assets/theme/js/script.js"></script>
         <script>
-            const frame = document.getElementById("myframe").contentWindow;
-            const container = frame.document.querySelector(".container.ng-tns-c153-1");
+            const frame = document.getElementById("myframe");
+            const container = frame.contentDocument.querySelector("div._ngcontent-universal-c153.container.ng-tns-c153-1");
         </script>
     </body>
 </html>
