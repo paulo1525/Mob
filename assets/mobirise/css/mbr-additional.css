@@ -1070,29 +1070,26 @@ a {
   width: 100%;
   object-fit: cover;
 }
-.cid-ttAMW1AOIm {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
-  background-color: #fafafa;
+.cid-sFGOTvnvck .card-title,
+.cid-sFGOTvnvck .card-box {
+  text-align: center;
 }
-.cid-ttAMW1AOIm .counter-container ul {
-  margin: 0;
-  list-style: none;
-  padding-left: 2.5rem;
+.cid-tuflX8AYYN {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #f8f9fa;
 }
-.cid-ttAMW1AOIm .counter-container ul li {
-  margin-bottom: 1rem;
-  position: relative;
+.cid-tuflX8AYYN .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-ttAMW1AOIm .counter-container ul li:before {
+.cid-tuflX8AYYN .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
   position: absolute;
-  left: -1.6rem;
-  content: "\2022";
-  color: #6592e6;
-  font-weight: bold;
-  font-size: 2rem;
-  width: 1.6rem;
-  line-height: 1.2;
+  top: 0;
 }
 .cid-ttAOjLxFX5 {
   padding-top: 4rem;
